@@ -1,5 +1,7 @@
 # Week 4 Capstone – Multi-Agent Resume Tool
 
+### Note: This code was written in **Colab**.
+
 This is my solo capstone project for the Agentic AI Learners' Space bootcamp.
 
 The project takes rough, unstructured resume text as input and uses multiple AI agents to convert it into a cleaner Markdown resume. It also performs a simple ATS keyword check and suggests any important technical keywords that are missing.
